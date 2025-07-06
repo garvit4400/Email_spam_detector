@@ -34,5 +34,5 @@ This project implements a dual-layer email security system by:
 
 ---
 ### 📩 Contact
-For queries or collaborations, reach out at **ts3000969@gmail.com**.
+For queries or collaborations, reach out at **garvit2615@gmail.com**.
 
